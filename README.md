@@ -1,25 +1,33 @@
+<div align="center">
+
 # LEE SANG YEOP
 
-## Ultra Diar Streaming Sortformer (8-Speaker)
+**🎙️ ML Engineer · Speaker Diarization**
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### Ultra Diar Streaming Sortformer (8-Speaker)
+
+NVIDIA Sortformer를 **4명 → 8명** 화자로 확장한 화자 다이어리제이션 모델입니다.
 
 [![Model on Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg)](https://huggingface.co/devsy0117/ultra_diar_streaming_sortformer_8spk_v1.0.0)
 
-8-speaker speaker diarization model. Try it on Hugging Face →
+**[→ Try it on Hugging Face](https://huggingface.co/devsy0117/ultra_diar_streaming_sortformer_8spk_v1.0.0)**
 
+---
+
+## 📊 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpwoei12)](https://solved.ac/qpwoei12/)
 
-<!--
-**LilDevsy0117/LilDevsy0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Thanks for visiting* ✨
+
+</div>
