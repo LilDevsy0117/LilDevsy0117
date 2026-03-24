@@ -43,7 +43,7 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 
 - **AI Researcher Intern** · [MAGO](https://www.holamago.com/)  
   2025.09 – 2026.03  
-  음성 AI 모델 고도화 및 서비스 개발
+  Advanced voice AI model optimization and service development
 
 ---
 
