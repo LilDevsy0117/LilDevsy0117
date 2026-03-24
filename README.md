@@ -30,19 +30,16 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 
 ## 🎓 Education
 
-- **Haeundae High School**  
-  2016.03 – 2019.02
+- **Haeundae High School** (2016.03 – 2019.02)
 
-- **Sungkyunkwan University**  
-  2020.03 – 2026.02 (Graduated)  
+- **Sungkyunkwan University** (2020.03 – 2026.02, Graduated)  
   Major: Computer Science and Engineering
 
 ---
 
 ## 💼 Experience
 
-- **AI Researcher Intern** · [MAGO](https://www.holamago.com/)  
-  2025.09 – 2026.03  
+- **AI Researcher Intern** · [MAGO](https://www.holamago.com/) (2025.09 – 2026.03)  
   Advanced voice AI model optimization and service development
 
 ---
