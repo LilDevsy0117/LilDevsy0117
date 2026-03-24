@@ -56,6 +56,22 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 
 ---
 
+## 🏆 Awards
+
+- **성균관대학교 S-TOP 우수작품 전시회 대상** · 성균관대학교 (2025.01)  
+  1년 동안 기업과 연계한 산학협력 프로젝트 결과물 중 가장 우수한 작품으로 선정 (금융 차트 이해 모델 개발)
+
+- **2024 SW 인재페스티벌 과학기술정보통신부 장관상** · 과학기술정보통신부 (2024.12)  
+  복잡한 한국어 금융 증권 차트 인식을 위한 Chart-to-Table 모델 고도화 프로젝트 수행
+
+- **군수사령부 KAIST 과학기술병 융합토론회 표창** · 군수사령부 (2023.05)  
+  Tabu-search 알고리즘을 활용한 물류 차량 스케줄링 최적화 연구 수행 및 KAIST에서 육군 장성단 앞 발표 공로
+
+- **군수사령부 자율참여형 디지털 대전환 우수상** · 군수사령부 (2023.03)  
+  군 물류 시스템 DX 아이디어로 3D Bin-Packing Algorithm과 Packing Robot 활용방안 제안 및 우수상 선정
+
+---
+
 ## 📊 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpwoei12)](https://solved.ac/qpwoei12/)
