@@ -10,6 +10,12 @@
 
 ---
 
+## 🌟 Memberships
+
+- **Mensa Korea** — Member
+
+---
+
 ## 🚀 Featured Project
 
 ### Ultra Diar Streaming Sortformer (8-Speaker)
