@@ -44,7 +44,8 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 
 - **Military Science and Technology Soldier** (2022.02 – 2023.08)  
   Researched military logistics vehicle scheduling optimization using the Tabu-search algorithm and developed the Transportation Scheduling Optimization Program (TSOP)
-  [News Coverage](https://youtu.be/kVK_1JwyyZQ?si=2sqCQTFcuSCmeldD)
+  
+  [육군군수사-KAIST, 군사과학기술병 연구성과 발표 (YouTube)](https://youtu.be/kVK_1JwyyZQ?si=2sqCQTFcuSCmeldD)
 
 ---
 
