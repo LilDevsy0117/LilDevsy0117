@@ -2,7 +2,7 @@
 
 # LEE SANG YEOP
 
-**AI/ML Engineer**
+**🤖 AI/ML Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsy0117)
 
@@ -16,7 +16,11 @@
 
 Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 
-[![Model on Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg)](https://huggingface.co/devsy0117/ultra_diar_streaming_sortformer_8spk_v1.0.0)
+### 🤗 Hugging Face Models
+
+[![5spk Model](https://img.shields.io/badge/HuggingFace-5spk_v1-FFCC4D?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/devsy0117/ultra_diar_streaming_sortformer_5spk_v1)
+[![8spk Model v1](https://img.shields.io/badge/HuggingFace-8spk_v1-FFB347?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/devsy0117/ultra_diar_streaming_sortformer_8spk_v1)
+[![8spk Model v0](https://img.shields.io/badge/HuggingFace-8spk_v0-FFA07A?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/devsy0117/ultra_diar_streaming_sortformer_8spk)
 
 
 ---
