@@ -2,7 +2,7 @@
 
 # LEE SANG YEOP
 
-**🤖 AI/ML Engineer · Mensa Korea Member**
+**🤖 AI/ML Engineer · Mensa Korea Member · 5급 공채 69회**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsy0117)
 
