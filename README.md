@@ -31,7 +31,7 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 ## 🎓 Education
 
 - Haeundae High School (2016–2019)
-- Sungkyunkwan University (2020–2026, Graduated)
+- Sungkyunkwan University (2020–2026, Graduated) — Major in Computer Science and Engineering
 
 ---
 
