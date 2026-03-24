@@ -52,8 +52,7 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 ## 📄 Publications
 
 - **Advancement of Chart-to-Table Model for Complex Korean Chart Understanding**  
-  Ki Yong Jung, Sang Yeop Lee, Gyu Min Lee, Heeseon Park  
-  Korea Computer Congress 2025
+  *Authors:* Ki Yong Jung, Sang Yeop Lee, Gyu Min Lee, Heeseon Park · *Venue:* Korea Computer Congress 2025
 
 ---
 
