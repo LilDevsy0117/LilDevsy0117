@@ -42,6 +42,9 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 - **AI Researcher Intern** · [MAGO](https://www.holamago.com/) (2025.09 – 2026.03)  
   Advanced voice AI model optimization and service development
 
+- **Military Science and Technology Soldier** (2022.02 – 2023.08)  
+  Researched military logistics vehicle scheduling optimization using the Tabu-search algorithm and developed the Transportation Scheduling Optimization Program (TSOP)
+
 ---
 
 ## 📊 Algorithm
