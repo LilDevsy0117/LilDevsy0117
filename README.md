@@ -28,6 +28,13 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 
 ---
 
+## 🎓 Education
+
+- Haeundae High School (2016–2019)
+- Sungkyunkwan University (2020–2026, Graduated)
+
+---
+
 ## 📊 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qpwoei12)](https://solved.ac/qpwoei12/)
