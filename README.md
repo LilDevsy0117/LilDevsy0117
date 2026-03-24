@@ -2,19 +2,11 @@
 
 # LEE SANG YEOP
 
-**🤖 AI/ML Engineer**
+**🤖 AI/ML Engineer · Mensa Korea Member**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsy0117)
 
 </div>
-
----
-
-## 🌟 Memberships
-
-- **Mensa Korea** — Member
-
----
 
 ## 🚀 Featured Project
 
