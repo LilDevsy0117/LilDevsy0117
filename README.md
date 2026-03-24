@@ -45,7 +45,7 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 - **Military Science and Technology Soldier** (2022.02 – 2023.08)  
   Researched military logistics vehicle scheduling optimization using the Tabu-search algorithm and developed the Transportation Scheduling Optimization Program (TSOP)
   
-  [[Subtitled News] Army Logistics Command-KAIST, Military Science & Technology Soldier Research Results Presentation (KFN News)](https://youtu.be/kVK_1JwyyZQ?si=2sqCQTFcuSCmeldD)
+  [Army Logistics Command-KAIST, Military Science & Technology Soldier Research Results Presentation (KFN News)](https://youtu.be/kVK_1JwyyZQ?si=2sqCQTFcuSCmeldD)
 
 ---
 
@@ -64,7 +64,7 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 - **Minister's Award, 2024 SW Talent Festival** · Ministry of Science and ICT (2024.12)  
   Led a project to advance a Chart-to-Table model for complex Korean financial securities chart understanding
   
-  [[Subtitled News] Chart & Graph Summarization Innovation Opens Up (YTN)](https://youtu.be/C0bvPSpmF10?si=yGWRiy5PzAX4KTJ2)
+  [Chart & Graph Summarization Innovation Opens Up (YTN)](https://youtu.be/C0bvPSpmF10?si=yGWRiy5PzAX4KTJ2)
 
 - **Citation, KAIST Military Science & Technology Soldier Convergence Forum** · Army Logistics Command (2023.05)  
   Recognized for Tabu-search based logistics vehicle scheduling optimization research and presentation before senior Army officers at KAIST
