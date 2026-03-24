@@ -17,11 +17,11 @@ Speaker diarization model extending NVIDIA Sortformer from **4 to 8 speakers**.
 ### 🤗 Hugging Face Models
 
 [![5spk Model](https://img.shields.io/badge/HuggingFace-5spk_v1-F59E0B?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/devsy0117/ultra_diar_streaming_sortformer_5spk_v1)  
-5-speaker diarization model.
+5-speaker streaming diarization model.
 
 [![8spk Model v1](https://img.shields.io/badge/HuggingFace-8spk_v1-E67E22?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/devsy0117/ultra_diar_streaming_sortformer_8spk_v1)
 [![8spk Model v0](https://img.shields.io/badge/HuggingFace-8spk_v0-D35400?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/devsy0117/ultra_diar_streaming_sortformer_8spk)  
-8-speaker diarization model.
+8-speaker streaming diarization model.
 
 
 ---
